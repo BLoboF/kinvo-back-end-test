@@ -1,0 +1,12 @@
+Bom dia time da Senior UP,
+
+Gostaria primeiramente de pedir desculpas, por não cumprimento da 
+atividade proposta. Meu conhecimento de Back End ainda é muito 
+limitado e tive diversos tipos de problema, os quais tive dificuldade 
+de resolver. Porem seria falta de respeito não responder e não tentar 
+responder a oportunidade que vocês me deram. Consegui montar a lógica 
+em Python, sei que nâo cumpri os pre-requisito. Mas se poder olhar a 
+lógica eu agradeço. Desculpe mais uma vez.
+
+Obrigado pela oportunidade,
+Bruno Lobo Figueiredo.
